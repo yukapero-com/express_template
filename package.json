@@ -16,7 +16,7 @@
     "grunt-este-watch": "^0.1.18",
     "http-errors": "~1.6.3",
     "load-grunt-tasks": "^5.1.0",
-    "log4js": "^6.2.1",
+    "log4js": "^6.4.0",
     "morgan": "~1.9.1",
     "underscore": "^1.10.2",
     "vue": "^2.6.11"
